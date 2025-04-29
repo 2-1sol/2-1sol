@@ -2,9 +2,10 @@
   <img
     src="https://render.gitanimals.org/lines/2-1sol"
     width="600"
-    height="120"
+    height="200"
   />
 </a>
+  
   
 ## 🐣 About me
 <p align="center">
