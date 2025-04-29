@@ -1,13 +1,11 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&width=full&height=200&color=93C5FD&text=Lee%20Han%20Sol&fontColor=fef8f5&fontAlign=50&fontAlignY=30&fontSize=40&desc=Full-stack%20developer"/>
-</p>
-
-<p align="center">
- <a href="https://literate-rowboat-174.notion.site/191be0f6d35f80e9bbf9fc9a896396ec" target="_blank" rel="noopener noreferrer">
-  Check out my Portfolio
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=2-1sol&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/2-1sol"
+    width="600"
+    height="120"
+  />
 </a>
-</p>
-
+  
 ## 🐣 About me
 <p align="center">
   사용자의 일상에 긍정적인 변화를 위한, 비즈니스를 위한 제품을 만들어 나가는 개발자입니다.<br>
